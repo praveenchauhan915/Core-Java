@@ -1,0 +1,21 @@
+Class:- It is a design 
+Object:- it is a product
+Create object of the class:- ClassName cn = new ClassName();
+             cn = Object Reference
+             new Classname(): Object
+             
+             
+Local Variable:- used inside the methods  
+Global Variables:- used outside the methods
+
+
+Inheritance:- 
+Method Overloading:- Having same method name but have different parameter
+Method Overridding:- Having same method name but it can be achieve via inheritance
+Polymorphism:- 
+Abstraction:- Hidding internal implementation and showing necessary details  
+Abstract Class:- can't create object...In this class declaration is not added....Implementation will be used later
+Encapsulation:- Wrapping data together 
+This Keyword:- It is used for map the local variable with the global variable
+Constructor:- Name of the function and class name should be same.....it is called as while object creation....        
+             
